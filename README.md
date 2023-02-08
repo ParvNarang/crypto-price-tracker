@@ -1,16 +1,22 @@
-# sample
+# Crypto Price Tracker
+A cryptocurrency price tracker which uses the CoinGecko API to fetch its data https://www.coingecko.com/en/api
 
-A new Flutter project.
+Click on the specific coin to view on a single page.
 
-## Getting Started
+<p align="center">
+  <img src="https://github.com/ParvNarang/crypto-price-tracker/blob/dcd07ab62029cf326f18919d9cee9482eddc7a75/assets/2.png" width="300">
+  <img src="https://github.com/ParvNarang/crypto-price-tracker/blob/dcd07ab62029cf326f18919d9cee9482eddc7a75/assets/5.png" width="300">
+</p>
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img src="https://github.com/ParvNarang/crypto-price-tracker/blob/dcd07ab62029cf326f18919d9cee9482eddc7a75/assets/3.png" width="200">
+  <img src="https://github.com/ParvNarang/crypto-price-tracker/blob/dcd07ab62029cf326f18919d9cee9482eddc7a75/assets/1.png" width="200">
+  <img src="https://github.com/ParvNarang/crypto-price-tracker/blob/dcd07ab62029cf326f18919d9cee9482eddc7a75/assets/4.png" width="200">
+  <img src="https://github.com/ParvNarang/crypto-price-tracker/blob/dcd07ab62029cf326f18919d9cee9482eddc7a75/assets/8.png" width="200">
+  <img src="https://github.com/ParvNarang/crypto-price-tracker/blob/dcd07ab62029cf326f18919d9cee9482eddc7a75/assets/6.png" width="200">
+  <img src="https://github.com/ParvNarang/crypto-price-tracker/blob/dcd07ab62029cf326f18919d9cee9482eddc7a75/assets/7.png" width="200">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  
+</p>
